@@ -1,0 +1,9 @@
+{
+    "Name": "Pack Name",
+    "Author": "Author",
+    "Description": "Place a one-line brief description of your pack here",
+    "Version": {
+        "major": 1,
+        "minor": 0
+    }
+}
